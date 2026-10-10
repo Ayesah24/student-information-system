@@ -1,0 +1,6 @@
+{
+    "application_name": "Student Information System",
+    "data_file": "data/students.json",
+    "log_level": "INFO",
+    "max_age": 120
+}
