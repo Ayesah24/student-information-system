@@ -1,7 +1,7 @@
 # Student Information System
  Project Description
 
-The Student Information System is a Python-based application that allows users to manage student records through a simple command-line interface. It supports adding, viewing, searching, updating, and deleting student information. The application uses JSON files for data storage and includes logging and unit testing.
+The Student Information System is a command-line application developed in Python. It allows users to manage student records through a menu-driven interface. The project uses JSON files for data storage, separates responsibilities into modules, records application events through logging, and includes automated unit tests for core student-management functions.
 
  Features
 
